@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 2">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +100,7 @@
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activity2 MS SpringCloud" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activité pratique N°2 MS-SpringCloud" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
     </key>
@@ -185,7 +181,7 @@
       <workItem from="1698338045219" duration="28000" />
       <workItem from="1698600266894" duration="16557000" />
       <workItem from="1701081162926" duration="891000" />
-      <workItem from="1703334106035" duration="11189000" />
+      <workItem from="1703334106035" duration="11670000" />
     </task>
     <task id="LOCAL-00001" summary="Activity 2">
       <created>1703440333628</created>
@@ -194,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703440333628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Activity 2">
+      <created>1703440660766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703440660766</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Activity 2">
+      <created>1703440992209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703440992209</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

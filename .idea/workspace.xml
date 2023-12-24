@@ -4,76 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/BillingServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/entities/Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/entities/ProductItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/feign/CustomerRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/feign/ProductItemRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/repositories/BillRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/repositories/ProductItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/web/BillingRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/test/java/com/enset/billingservice/BillingServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/main/java/com/enset/customerservice/CustomerServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/main/java/com/enset/customerservice/entities/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/main/java/com/enset/customerservice/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/test/java/com/enset/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/src/main/java/com/enset/eurekadiscovery/EurekaDiscoveryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/src/test/java/com/enset/eurekadiscovery/EurekaDiscoveryApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/main/java/com/enset/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/main/resources/app.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/test/java/com/enset/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/main/java/com/enset/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/main/java/com/enset/inventoryservice/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/main/java/com/enset/inventoryservice/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/test/java/com/enset/inventoryservice/InventoryServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 2">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +17,23 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Activity 2 Spring Cloud">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -233,8 +185,16 @@
       <workItem from="1698338045219" duration="28000" />
       <workItem from="1698600266894" duration="16557000" />
       <workItem from="1701081162926" duration="891000" />
-      <workItem from="1703334106035" duration="10594000" />
+      <workItem from="1703334106035" duration="11189000" />
     </task>
+    <task id="LOCAL-00001" summary="Activity 2">
+      <created>1703440333628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703440333628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,5 +204,9 @@
         <option value="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/ecom-webapp/node_modules/karma/config.tpl.js" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Activity 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activity 2" />
   </component>
 </project>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery" vcs="Git" />

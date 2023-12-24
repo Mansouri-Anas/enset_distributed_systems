@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/BillingServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/entities/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/entities/ProductItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/feign/CustomerRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/feign/ProductItemRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/repositories/BillRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/repositories/ProductItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/java/com/enset/billingservice/web/BillingRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/billing-service/src/test/java/com/enset/billingservice/BillingServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/main/java/com/enset/customerservice/CustomerServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/main/java/com/enset/customerservice/entities/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/main/java/com/enset/customerservice/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/customer-service/src/test/java/com/enset/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/src/main/java/com/enset/eurekadiscovery/EurekaDiscoveryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/eureka-discovery/src/test/java/com/enset/eurekadiscovery/EurekaDiscoveryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/main/java/com/enset/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/main/resources/app.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/gateway-service/src/test/java/com/enset/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/main/java/com/enset/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/main/java/com/enset/inventoryservice/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/main/java/com/enset/inventoryservice/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/inventory-service/src/test/java/com/enset/inventoryservice/InventoryServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2WqB2rVIZFh1nBWOsKLzC4pTjT4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/ENSET/S5/AOS Stream Processing/TP2MSCloud/Activité pratique N°2 MS-SpringCloud",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "spring.configuration.checksum": "9fc87327047e4005a27d1ac30bf859b6",
+    "ts.external.directory.path": "E:\\ENSET\\S5\\AOS Stream Processing\\TP2MSCloud\\ecom-webapp\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.enset.billingservice.model" />
+      <recent name="com.enset.customerservice.entities" />
+      <recent name="com.enset.customerservice.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activité pratique N°2 MS-SpringCloud" />
+      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\gateway-service\src\main\resources" />
+      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activité pratique N°2 MS-SpringCloud" />
+      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.enset.billingservice.feign" />
+      <recent name="com.enset.billingservice.repositories" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server (ecom-web-app)">
+    <configuration name="Angular Application (ecom-web-app)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="BillingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="billing-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enset.billingservice.BillingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="customer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enset.customerservice.CustomerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enset.eurekadiscovery.EurekaDiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enset.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inventory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enset.inventoryservice.InventoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (ecom-web-app)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/ecom-web-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="" />
+      <created>1697450031492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697450031492</updated>
+      <workItem from="1697450033574" duration="719000" />
+      <workItem from="1697450789302" duration="5399000" />
+      <workItem from="1697994727666" duration="6809000" />
+      <workItem from="1698331914026" duration="76000" />
+      <workItem from="1698338045219" duration="28000" />
+      <workItem from="1698600266894" duration="16557000" />
+      <workItem from="1701081162926" duration="891000" />
+      <workItem from="1703334106035" duration="10594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Activité pratique N°2 MS-SpringCloud/ecom-webapp/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+</project>

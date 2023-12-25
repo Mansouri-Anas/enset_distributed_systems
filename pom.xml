@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>Activity2 MS SpringCloud</module>
+        <module>billing-service</module>
     </modules>
 
     <properties>

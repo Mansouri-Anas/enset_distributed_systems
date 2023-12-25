@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 2" />
+    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 2">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/billing-service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/customer-service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/eureka-discovery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/gateway-service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/inventory-service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +94,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "9fc87327047e4005a27d1ac30bf859b6",
     "ts.external.directory.path": "E:\\ENSET\\S5\\AOS Stream Processing\\TP2MSCloud\\ecom-webapp\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -100,9 +112,9 @@
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activity2 MS SpringCloud" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activité pratique N°2 MS-SpringCloud" />
-      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.enset.billingservice.feign" />
@@ -181,7 +193,10 @@
       <workItem from="1698338045219" duration="28000" />
       <workItem from="1698600266894" duration="16557000" />
       <workItem from="1701081162926" duration="891000" />
-      <workItem from="1703334106035" duration="11992000" />
+      <workItem from="1703334106035" duration="16228000" />
+      <workItem from="1703454176462" duration="989000" />
+      <workItem from="1703455988770" duration="9887000" />
+      <workItem from="1703524680898" duration="160000" />
     </task>
     <task id="LOCAL-00001" summary="Activity 2">
       <created>1703440333628</created>
@@ -227,6 +242,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/billing-service" />
+      <path value="$PROJECT_DIR$/customer-service" />
+      <path value="$PROJECT_DIR$/eureka-discovery" />
+      <path value="$PROJECT_DIR$/gateway-service" />
+      <path value="$PROJECT_DIR$/inventory-service" />
+      <path value="$PROJECT_DIR$/Activity2 MS SpringCloud" />
+    </ignored-roots>
     <MESSAGE value="Activity 2" />
     <option name="LAST_COMMIT_MESSAGE" value="Activity 2" />
   </component>

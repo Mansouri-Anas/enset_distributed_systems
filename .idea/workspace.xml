@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 2">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 2 MS Spring Cloud">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/billing-service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/customer-service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/eureka-discovery" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/gateway-service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/inventory-service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity2 MS SpringCloud/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-discovery" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-discovery" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,30 +67,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "E:/ENSET/S5/AOS Stream Processing/TP2MSCloud/Activité pratique N°2 MS-SpringCloud",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "9fc87327047e4005a27d1ac30bf859b6",
-    "ts.external.directory.path": "E:\\ENSET\\S5\\AOS Stream Processing\\TP2MSCloud\\ecom-webapp\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/ENSET/S5/AOS Stream Processing/TP2MSCloud/Activité pratique N°2 MS-SpringCloud&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;9fc87327047e4005a27d1ac30bf859b6&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\ENSET\\S5\\AOS Stream Processing\\TP2MSCloud\\ecom-webapp\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.enset.billingservice.model" />
@@ -196,7 +187,8 @@
       <workItem from="1703334106035" duration="16228000" />
       <workItem from="1703454176462" duration="989000" />
       <workItem from="1703455988770" duration="9887000" />
-      <workItem from="1703524680898" duration="160000" />
+      <workItem from="1703524680898" duration="1135000" />
+      <workItem from="1703945184063" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="Activity 2">
       <created>1703440333628</created>
@@ -219,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703440992209</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Activity 2 MS Spring Cloud">
+      <created>1703524966828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703524966828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Activity 2 MS Spring Cloud">
+      <created>1703525139557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703525139557</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +257,7 @@
       <path value="$PROJECT_DIR$/Activity2 MS SpringCloud" />
     </ignored-roots>
     <MESSAGE value="Activity 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Activity 2" />
+    <MESSAGE value="Activity 2 MS Spring Cloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activity 2 MS Spring Cloud" />
   </component>
 </project>

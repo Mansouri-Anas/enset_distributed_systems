@@ -4,88 +4,140 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 2 MS Spring Cloud">
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/customer-service-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/customer-service-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/customer-service.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/gateway.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/inventory-service-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/inventory-service-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/inventory-service.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/order-service.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/src/main/java/com/example/configservice/ConfigServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/src/test/java/com/example/configservice/ConfigServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/CustomerServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/entities/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/entities/CustomerProjection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/pepo/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/web/CustomerConfigTestConstroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/test/java/com/example/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/src/main/java/com/example/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/src/test/java/com/example/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/java/com/example/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/java/com/example/inventoryservice/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/java/com/example/inventoryservice/repo/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/test/java/com/example/inventoryservice/InventoryServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/OrderServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/entities/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/entities/ProductItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/enums/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/repositories/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/repositories/ProductItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/services/CustomerRestClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/services/InventoryRestClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/web/OrderRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/test/java/com/example/orderservice/OrderServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 3 Event Driven Architecture">
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/app/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/app/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/app/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/app/src/main/java/com/enset/app/Oauth2OidcAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/app/src/test/java/com/example/oauth2oidcapp/Oauth2OidcAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/EbankServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/dto/CurrencyTransferResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/dto/NewWalletTransferRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/entities/CurrencyDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/entities/CurrencyTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/enums/TransactionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/repositories/BankCurrencyDepositRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/repositories/CurrencyTransactionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/security/KeycloakAdapterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/service/EBankServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/java/org/sid/ebankservice/web/EBankRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/main/resources/currencies.data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/ebank-service/src/test/java/org/sid/ebankservice/EbankServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/continents/continents.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/continents/continents.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/continents/continents.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/continents/continents.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/currencies/currencies.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/currencies/currencies.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/currencies/currencies.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/currencies/currencies.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/currency-deposit/currency-deposit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/currency-deposit/currency-deposit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/currency-deposit/currency-deposit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/currency-deposit/currency-deposit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/graphql.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/guards/security.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/model/continent.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/model/country.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/model/currency.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/model/wallet-transaction.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/model/wallet.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/queries/graphql.queries.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/services/currency-deposit.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/services/security.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/wallet-transactions/wallet-transactions.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/wallet-transactions/wallet-transactions.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/wallet-transactions/wallet-transactions.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/wallet-transactions/wallet-transactions.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/wallets/wallets.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/wallets/wallets.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/wallets/wallets.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/app/wallets/wallets.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-front-angular/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/WalletServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/config/LocalCorsConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/dto/CurrencyTransferResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/dto/NewWalletTransferRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/entities/Continent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/entities/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/entities/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/entities/Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/entities/WalletTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/enums/WalletTransactionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/exceptions/CustomDataFetcherExceptionResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/repositories/ContinentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/repositories/CountryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/repositories/CurrencyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/repositories/WalletRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/repositories/WalletTransactionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/services/CurrencyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/services/WalletServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/java/org/sid/walletservice/web/CurrencyGraphQLController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/resources/csv/countries_continents.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/resources/csv/countries_currencies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/resources/csv/currencies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/main/resources/graphql/schema.graphqls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 4 Distributed Systems Security/wallet-service/src/test/java/org/sid/walletservice/WalletServiceApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/pepo/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/repositories/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/java/com/example/inventoryservice/repo/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/java/com/example/inventoryservice/repositories/ProductRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +221,7 @@
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "9fc87327047e4005a27d1ac30bf859b6",
-    "ts.external.directory.path": "E:\\ENSET\\S5\\AOS Stream Processing\\TP2MSCloud\\ecom-webapp\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "E:\\ENSET\\S5\\AOS Stream Processing\\TP2MSCloud\\Activity 2 SpringCloud\\ecom-webapp\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -272,7 +324,7 @@
       <workItem from="1703455988770" duration="9887000" />
       <workItem from="1703524680898" duration="1135000" />
       <workItem from="1703945184063" duration="785000" />
-      <workItem from="1705001964939" duration="424000" />
+      <workItem from="1705001964939" duration="1474000" />
     </task>
     <task id="LOCAL-00001" summary="Activity 2">
       <created>1703440333628</created>
@@ -323,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703945908009</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Activity 3 Event Driven Architecture">
+      <created>1705002425799</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705002425799</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +415,7 @@
     </ignored-roots>
     <MESSAGE value="Activity 2" />
     <MESSAGE value="Activity 2 MS Spring Cloud" />
-    <option name="LAST_COMMIT_MESSAGE" value="Activity 2 MS Spring Cloud" />
+    <MESSAGE value="Activity 3 Event Driven Architecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activity 3 Event Driven Architecture" />
   </component>
 </project>

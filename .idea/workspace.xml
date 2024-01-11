@@ -5,8 +5,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db3c2022-41fc-4629-ab73-98c5aa0eae36" name="Changes" comment="Activity 2 MS Spring Cloud">
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/customer-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/customer-service-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/customer-service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/gateway.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/inventory-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/inventory-service-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/inventory-service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-repo/order-service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/src/main/java/com/example/configservice/ConfigServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/config-service/src/test/java/com/example/configservice/ConfigServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/CustomerServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/entities/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/entities/CustomerProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/pepo/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/java/com/example/customerservice/web/CustomerConfigTestConstroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/customer-service/src/test/java/com/example/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/src/main/java/com/example/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/gateway-service/src/test/java/com/example/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/java/com/example/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/java/com/example/inventoryservice/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/java/com/example/inventoryservice/repo/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/inventory-service/src/test/java/com/example/inventoryservice/InventoryServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/OrderServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/entities/ProductItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/repositories/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/repositories/ProductItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/services/CustomerRestClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/services/InventoryRestClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/java/com/example/orderservice/web/OrderRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activity 3 Event Driven Architecture/order-service/src/test/java/com/example/orderservice/OrderServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-discovery" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-discovery" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,30 +146,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/ENSET/S5/AOS Stream Processing/TP2MSCloud/Activité pratique N°2 MS-SpringCloud&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;9fc87327047e4005a27d1ac30bf859b6&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;E:\\ENSET\\S5\\AOS Stream Processing\\TP2MSCloud\\ecom-webapp\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/ENSET/S5/AOS Stream Processing/TP2MSCloud",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "9fc87327047e4005a27d1ac30bf859b6",
+    "ts.external.directory.path": "E:\\ENSET\\S5\\AOS Stream Processing\\TP2MSCloud\\ecom-webapp\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.enset.billingservice.model" />
@@ -98,11 +180,12 @@
       <recent name="com.enset.customerservice.repository" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activité pratique N°2 MS-SpringCloud" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\gateway-service\src\main\resources" />
-      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activity 2 SpringCloud" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activity2 MS SpringCloud" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\TP2MSCloud\Activité pratique N°2 MS-SpringCloud" />
@@ -188,7 +271,8 @@
       <workItem from="1703454176462" duration="989000" />
       <workItem from="1703455988770" duration="9887000" />
       <workItem from="1703524680898" duration="1135000" />
-      <workItem from="1703945184063" duration="74000" />
+      <workItem from="1703945184063" duration="785000" />
+      <workItem from="1705001964939" duration="424000" />
     </task>
     <task id="LOCAL-00001" summary="Activity 2">
       <created>1703440333628</created>
@@ -225,7 +309,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703525139557</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Activity 2 MS Spring Cloud">
+      <created>1703945751771</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703945751772</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Activity 2 MS Spring Cloud">
+      <created>1703945908008</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703945908009</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
